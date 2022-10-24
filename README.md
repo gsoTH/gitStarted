@@ -1,7 +1,7 @@
 # gitStarted
 In diesem Repository sollen Sie die ersten Schritte mit git und gitHub durchführen.
 
-## Anforderungen :dart:
+## Aufgaben :dart:
 1. Vervollständigen Sie die Beschreibungen in der Liste der git-Befehle (gerne im Browser bearbeiten)
 2. Bilder sollten nicht in git gespeichert werden. Löschen Sie die Datei RubberDuck.png und puschen Sie den neuen Commit!
 2. Ergänzen Sie die Liste um weitere git-Befehle, die Sie heute kennen gelernt haben! (setzen Sie die Befehle aus 1. ein)
