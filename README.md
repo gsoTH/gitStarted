@@ -1,6 +1,8 @@
 # gitStarted
 In diesem Repository sollen Sie die ersten Schritte mit git und gitHub durchführen.
 
+![Ente!](RubberDuck.png)
+
 ## Aufgaben :dart:
 1. Vervollständigen Sie Liste der bekannten git-Befehle!
 2. Vervollständigen Sie **arbeitsteilig** die Beschreibungen der git-Befehle! (Sie können die Hilfe via `git help <command>` aufrufen
